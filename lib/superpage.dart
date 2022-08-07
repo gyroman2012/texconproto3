@@ -68,7 +68,7 @@ class _MyLoginPageState extends State<MyLoginPage> {
                           height: 10.0,
                         ),
                         Text(
-                          'Brian Gurtz',
+                          'Dan',
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 20.0,
